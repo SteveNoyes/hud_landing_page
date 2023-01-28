@@ -25,7 +25,7 @@
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/SteveNoyes/hud_landing_page)
-- Live Site URL: [GitHub Pages](https://pages.github.com/)
+- Live Site URL: [GitHub Pages](https://stevenoyes.github.io/hud_landing_page/)
 
 ## My process
 
