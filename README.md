@@ -24,7 +24,7 @@
 
 ### Links
 
-- Solution URL: [GitHub Repo](https://your-solution-url.com)
+- Solution URL: [GitHub Repo](https://github.com/SteveNoyes/hud_landing_page)
 - Live Site URL: [GitHub Pages](https://pages.github.com/)
 
 ## My process
