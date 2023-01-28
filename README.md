@@ -37,8 +37,13 @@
 
 ### Featured Section
 
+  I copied the svg and changed the fill color for the footer.
 
 ```html
+  <!-- Top Logo Color -->
+  <svg><g><path fill="#FF52C1"/></g></svg>
+  <!-- Footer Logo Color -->
+  <svg><g><path fill="#FFFFFF"/></g></svg>
 ```
 
 ```css
