@@ -15,3 +15,17 @@
 --very-dark-cyan: hsl(192, 100%, 9%);
 --very-pale-blue: hsl(207, 100%, 98%);
 }
+
+nav {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+}
+
+nav img {
+  border: 1px solid red;
+}
+
+nav button {
+  border: 1px solid red;
+}
