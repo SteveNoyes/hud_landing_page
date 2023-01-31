@@ -16,16 +16,18 @@
 --very-pale-blue: hsl(207, 100%, 98%);
 }
 
-nav {
+header {
   border: 1px solid red;
+  padding: 1rem;
+}
+
+nav {
   display: flex;
   justify-content: space-between;
 }
 
-nav img {
-  border: 1px solid red;
-}
-
 nav button {
-  border: 1px solid red;
+  border: 1px solid var(--light-pink);
+  border-radius: 40px;
+  color: var(--light-pink);
 }
